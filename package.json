@@ -1,0 +1,16 @@
+{
+	"name": "udata-compiler",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"start": "node build.mjs"
+	},
+	"devDependencies": {
+		"@types/node": "^20.12.5"
+	},
+	"dependencies": {
+		"typescript": "^5.2.2",
+		"vite": "^6.3.5"
+	}
+}
